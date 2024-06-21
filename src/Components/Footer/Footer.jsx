@@ -39,10 +39,10 @@ const Footer = () => {
             <a href="https://www.instagram.com/your_username_here" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-instagram"></i>
             </a>
-            <a href="https://www.linkedin.com/in/your_username_here" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/pravin-kumar-602157227/" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-linkedin"></i>
             </a>
-            <a href="https://github.com/your_username_here" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/PravinElangovan" target="_blank" rel="noopener noreferrer">
                 <i className="fab fa-github"></i>
             </a>
         </div>
