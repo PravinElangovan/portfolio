@@ -1,7 +1,7 @@
 import React from 'react'
 import './About.css'
 import theme_pattern from '../../assets/theme_pattern.svg'
-import profile_img from '../../assets/portfolio.jpg'
+import profile_img from '../../assets/portfolio.jpeg'
 
 
 const About = () => {
@@ -37,13 +37,13 @@ const About = () => {
         </div>
         <hr />
         <div className="about-achievement">
-            <h1>10+</h1>
+            <h1>20+</h1>
             <p>PROJECTS COMPLETED</p>
         </div>
         <hr />
         <div className="about-achievement">
-            <h1>15+</h1>
-            <p>HAPPY CLIENTS</p>
+            <h1>3+</h1>
+            <p>Certifications</p>
         </div>
       </div>
     </div>
